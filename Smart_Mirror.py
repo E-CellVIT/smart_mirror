@@ -122,16 +122,5 @@ def wuGet():
 
 # Call wuGet to get the first update
 wuGet()
-
 root.mainloop()
 root.mainloop()
-
-
-
-
-
-
-
-
-
-
